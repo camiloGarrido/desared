@@ -223,15 +223,6 @@ h2 span {
   letter-spacing: 0.04em;
 }
 
-.hero-index {
-  position: absolute;
-  bottom: 38px;
-  left: 8.5%;
-  color: #a0aab6;
-  font-size: 0.72rem;
-  letter-spacing: 0.12em;
-}
-
 .proposal {
   display: grid;
   grid-template-columns: 1fr 0.7fr;
@@ -308,10 +299,6 @@ h2 {
     gap: 16px;
   }
 
-  .site-header nav a:first-child {
-    display: none;
-  }
-
   .hero {
     grid-template-columns: 1fr;
     gap: 30px;
@@ -335,11 +322,6 @@ h2 {
   .art-caption {
     right: 0;
     bottom: 1%;
-  }
-
-  .hero-index {
-    bottom: 34px;
-    left: 8%;
   }
 
   .proposal {
